@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="lb_navigation_menu_contentDescription">Меню навігацыі</string>
+    <string name="orb_search_action">Аперацыя пошуку</string>
+    <string name="lb_search_bar_hint">Шукаць</string>
+    <string name="lb_search_bar_hint_speech">Пачніце гаварыць, каб пачаць пошук</string>
+    <string name="lb_search_bar_hint_with_title">Шукаць у %1$s</string>
+    <string name="lb_search_bar_hint_with_title_speech">Пачніце гаварыць, каб пачаць пошук у %1$s</string>
+    <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
+    <string name="lb_control_display_rewind_multiplier">%1$dX</string>
+    <string name="lb_playback_controls_play">Прайграць</string>
+    <string name="lb_playback_controls_pause">Прыпыніць</string>
+    <string name="lb_playback_controls_fast_forward">Перамотка ўперад</string>
+    <string name="lb_playback_controls_fast_forward_multiplier">Перамотка ўперад %1$dX</string>
+    <string name="lb_playback_controls_rewind">Перамотка назад</string>
+    <string name="lb_playback_controls_rewind_multiplier">Перамотка назад %1$dX</string>
+    <string name="lb_playback_controls_skip_next">Перайсці да наступнага элемента</string>
+    <string name="lb_playback_controls_skip_previous">Перайсці да папярэдняга элемента</string>
+    <string name="lb_playback_controls_more_actions">Дадатковыя дзеянні</string>
+    <string name="lb_playback_controls_thumb_up">Зняць адзнаку «Падабаецца»</string>
+    <string name="lb_playback_controls_thumb_up_outline">Паставіць адзнаку «Падабаецца»</string>
+    <string name="lb_playback_controls_thumb_down">Зняць адзнаку «Не падабаецца»</string>
+    <string name="lb_playback_controls_thumb_down_outline">Паставіць адзнаку «Не падабаецца»</string>
+    <string name="lb_playback_controls_repeat_none">Не паўтараць нічога</string>
+    <string name="lb_playback_controls_repeat_all">Паўтарыць усё</string>
+    <string name="lb_playback_controls_repeat_one">Паўтарыць адзін элемент</string>
+    <string name="lb_playback_controls_shuffle_enable">Уключыць выпадковы парадак</string>
+    <string name="lb_playback_controls_shuffle_disable">Адключыць выпадковы парадак</string>
+    <string name="lb_playback_controls_high_quality_enable">Уключыць высокую якасць</string>
+    <string name="lb_playback_controls_high_quality_disable">Адключыць высокую якасць</string>
+    <string name="lb_playback_controls_closed_captioning_enable">Уключыць схаваныя цітры</string>
+    <string name="lb_playback_controls_closed_captioning_disable">Адключыць схаваныя цітры</string>
+    <string name="lb_playback_controls_picture_in_picture">Калі ласка, увядзіце выяву ў рэжыме Выяў</string>
+    <string name="lb_guidedaction_finish_title">Завяршыць</string>
+    <string name="lb_guidedaction_continue_title">Далей</string>
+    <string name="lb_date_separator">/</string>
+    <string name="lb_time_separator">:</string>
+    <string name="lb_onboarding_get_started">ПАЧАЦЬ</string>
+    <string name="lb_onboarding_accessibility_next">Далей</string>
+    <string name="abc_action_mode_done" tools:ignore="PrivateResource">Гатова</string>
+    <string name="abc_action_bar_home_description" tools:ignore="PrivateResource">Перайсці на галоўную старонку</string>
+    <string name="abc_action_bar_up_description" tools:ignore="PrivateResource">Перайсці ўверх</string>
+    <string name="abc_action_menu_overflow_description" tools:ignore="PrivateResource">Дадатковыя параметры</string>
+    <string name="abc_toolbar_collapse_description" tools:ignore="PrivateResource">Згарнуць</string>
+    <string name="abc_action_bar_home_description_format" tools:ignore="PrivateResource">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format" tools:ignore="PrivateResource">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search" tools:ignore="PrivateResource">Пошук</string>
+    <string name="abc_search_hint" tools:ignore="PrivateResource">Пошук…</string>
+    <string name="abc_searchview_description_query" tools:ignore="PrivateResource">Запыт на пошук</string>
+    <string name="abc_searchview_description_clear" tools:ignore="PrivateResource">Выдалiць запыт</string>
+    <string name="abc_searchview_description_submit" tools:ignore="PrivateResource">Адправіць запыт</string>
+    <string name="abc_searchview_description_voice" tools:ignore="PrivateResource">Галасавы пошук</string>
+    <string name="abc_activitychooserview_choose_application" tools:ignore="PrivateResource">Выбраць праграму</string>
+    <string name="abc_activity_chooser_view_see_all" tools:ignore="PrivateResource">Прагледзець усё</string>
+    <string name="abc_shareactionprovider_share_with_application" tools:ignore="PrivateResource">Абагуліць з %s</string>
+    <string name="abc_shareactionprovider_share_with" tools:ignore="PrivateResource">Абагуліць з</string>
+    <string name="status_bar_notification_info_overflow" tools:ignore="PrivateResource">больш за 999</string>
+    <string name="abc_capital_on" tools:ignore="PrivateResource">УКЛ.</string>
+    <string name="abc_capital_off" tools:ignore="PrivateResource">ВЫКЛ.</string>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="lb_navigation_menu_contentDescription">Menyja e navigimit</string>
+    <string name="orb_search_action">Veprim i kërkimit</string>
+    <string name="lb_search_bar_hint">Kërko</string>
+    <string name="lb_search_bar_hint_speech">Fol për të kërkuar</string>
+    <string name="lb_search_bar_hint_with_title">Kërko për %1$s</string>
+    <string name="lb_search_bar_hint_with_title_speech">Fol për të kërkuar %1$s</string>
+    <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
+    <string name="lb_control_display_rewind_multiplier">%1$dX</string>
+    <string name="lb_playback_controls_play">Luaj</string>
+    <string name="lb_playback_controls_pause">Pauzë</string>
+    <string name="lb_playback_controls_fast_forward">Përparo me shpejtësi</string>
+    <string name="lb_playback_controls_fast_forward_multiplier">Përparo me shpejtësi %1$dX</string>
+    <string name="lb_playback_controls_rewind">Kthe në fillim</string>
+    <string name="lb_playback_controls_rewind_multiplier">Kthe në fillim %1$dX</string>
+    <string name="lb_playback_controls_skip_next">Kapërce për te tjetra</string>
+    <string name="lb_playback_controls_skip_previous">Kapërce të mëparshmin</string>
+    <string name="lb_playback_controls_more_actions">Veprime të tjera</string>
+    <string name="lb_playback_controls_thumb_up">Hiq nga përzgjedhja \"Gishti lart\"</string>
+    <string name="lb_playback_controls_thumb_up_outline">Përzgjidh \"Gishtin sipër\"</string>
+    <string name="lb_playback_controls_thumb_down">Hiq nga përzgjedhja \"Gishti poshtë\"</string>
+    <string name="lb_playback_controls_thumb_down_outline">Përzgjidh \"Gishtin poshtë\"</string>
+    <string name="lb_playback_controls_repeat_none">Mos përsërit asnjë</string>
+    <string name="lb_playback_controls_repeat_all">Përsërit të gjitha</string>
+    <string name="lb_playback_controls_repeat_one">Përsërit një</string>
+    <string name="lb_playback_controls_shuffle_enable">Aktivizo përzierjen</string>
+    <string name="lb_playback_controls_shuffle_disable">Çaktivizo përzierjen</string>
+    <string name="lb_playback_controls_high_quality_enable">Aktivizo \"Cilësinë e lartë\"</string>
+    <string name="lb_playback_controls_high_quality_disable">Çaktivizo \"Cilësinë e lartë\"</string>
+    <string name="lb_playback_controls_closed_captioning_enable">Aktivizo titrat</string>
+    <string name="lb_playback_controls_closed_captioning_disable">Çaktivizo titrat me sekuencë kohore</string>
+    <string name="lb_playback_controls_picture_in_picture">Fut një fotografi në modalitetin e fotografisë</string>
+    <string name="lb_guidedaction_finish_title">Përfundo</string>
+    <string name="lb_guidedaction_continue_title">Vazhdo</string>
+    <string name="lb_date_separator">/</string>
+    <string name="lb_time_separator">:</string>
+    <string name="lb_onboarding_get_started">FILLO</string>
+    <string name="lb_onboarding_accessibility_next">Përpara</string>
+    <string name="abc_action_mode_done" tools:ignore="PrivateResource">U krye!</string>
+    <string name="abc_action_bar_home_description" tools:ignore="PrivateResource">Orientohu për në shtëpi</string>
+    <string name="abc_action_bar_up_description" tools:ignore="PrivateResource">Ngjitu lart</string>
+    <string name="abc_action_menu_overflow_description" tools:ignore="PrivateResource">Opsione të tjera</string>
+    <string name="abc_toolbar_collapse_description" tools:ignore="PrivateResource">Shpalos</string>
+    <string name="abc_action_bar_home_description_format" tools:ignore="PrivateResource">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format" tools:ignore="PrivateResource">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search" tools:ignore="PrivateResource">Kërko</string>
+    <string name="abc_search_hint" tools:ignore="PrivateResource">Kërko…</string>
+    <string name="abc_searchview_description_query" tools:ignore="PrivateResource">Kërko pyetjen</string>
+    <string name="abc_searchview_description_clear" tools:ignore="PrivateResource">Pastro pyetjen</string>
+    <string name="abc_searchview_description_submit" tools:ignore="PrivateResource">Dërgo pyetjen</string>
+    <string name="abc_searchview_description_voice" tools:ignore="PrivateResource">Kërkim me zë</string>
+    <string name="abc_activitychooserview_choose_application" tools:ignore="PrivateResource">Zgjidh një aplikacion</string>
+    <string name="abc_activity_chooser_view_see_all" tools:ignore="PrivateResource">Shikoji të gjitha</string>
+    <string name="abc_shareactionprovider_share_with_application" tools:ignore="PrivateResource">Shpërnda publikisht me %s</string>
+    <string name="abc_shareactionprovider_share_with" tools:ignore="PrivateResource">Shpërnda publikisht me</string>
+    <string name="status_bar_notification_info_overflow" tools:ignore="PrivateResource">999+</string>
+    <string name="abc_capital_on" tools:ignore="PrivateResource">AKTIV</string>
+    <string name="abc_capital_off" tools:ignore="PrivateResource">JOAKTIV</string>
+</resources>

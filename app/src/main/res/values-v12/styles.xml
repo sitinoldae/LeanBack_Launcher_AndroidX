@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Widget.AppCompat.AutoCompleteTextView" parent="@style/Base.V12.Widget.AppCompat.AutoCompleteTextView" tools:ignore="PrivateResource" />
+    <style name="Base.Widget.AppCompat.EditText" parent="@style/Base.V12.Widget.AppCompat.EditText" tools:ignore="PrivateResource" />
+    <style name="Base.V12.Widget.AppCompat.EditText" parent="@style/Base.V7.Widget.AppCompat.EditText" tools:ignore="PrivateResource">
+        <item name="android:textCursorDrawable" tools:ignore="PrivateResource">@drawable/abc_text_cursor_material</item>
+    </style>
+    <style name="Base.V12.Widget.AppCompat.AutoCompleteTextView" parent="@style/Base.V7.Widget.AppCompat.AutoCompleteTextView" tools:ignore="PrivateResource">
+        <item name="android:textCursorDrawable" tools:ignore="PrivateResource">@drawable/abc_text_cursor_material</item>
+    </style>
+</resources>
